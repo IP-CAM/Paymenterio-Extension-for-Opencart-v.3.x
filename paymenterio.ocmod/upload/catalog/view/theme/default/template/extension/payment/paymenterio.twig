@@ -1,0 +1,9 @@
+<div style="width: 100%;padding: 20px;font-size: 14px;">
+    {{ redirect_info }}
+</div>
+<script type="text/javascript"><!--
+    const paymentLink = '{{ payment_link }}';
+    setTimeout(function(){
+        window.location.href = paymentLink;
+    }, 200);
+//--></script>
