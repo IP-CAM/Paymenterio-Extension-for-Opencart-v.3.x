@@ -1,4 +1,4 @@
-# OpenCart 3 Paymenterio payment module for WooCommerce plugin.
+# OpenCart 3 Paymenterio payment module.
 =====================
 
 
